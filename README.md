@@ -3,7 +3,7 @@
 Objective: 
 ----------------
 
-(a) Analyse ice-cream consumption and daily revenue in dollars based on the temperature.
+(a) Analyze ice-cream consumption and daily revenue in dollars based on the temperature.
 
 (b) Create a model that could predict the ice-cream daily revenue in dollars based on the temperature.
 
